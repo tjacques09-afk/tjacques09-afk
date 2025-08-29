@@ -1,5 +1,6 @@
-## 👋 Olá, seja bem-vindo ao meu GitHub!
+## 👋 Olá, seja bem-vindo!
 🚀 Sobre mim
+Meu nome é Thiago Jacques
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante evolução no mundo da tecnologia.
 Atualmente, venho aprofundando meus conhecimentos por meio de cursos na Udemy, com foco em:

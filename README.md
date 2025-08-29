@@ -1,4 +1,17 @@
-## Hi there 👋
+## 👋 Olá, seja bem-vindo ao meu GitHub!
+🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante evolução no mundo da tecnologia.
+Atualmente, venho aprofundando meus conhecimentos por meio de cursos na Udemy, com foco em:
+
+🐍 Python
+
+🗄️ SQL
+
+📊 Power BI
+
+Meu objetivo é construir uma carreira sólida na área de desenvolvimento e análise de dados, aplicando as boas práticas de programação e visualização para transformar dados em soluções inteligentes.
+
 
 <!--
 **tjacques09-afk/tjacques09-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
